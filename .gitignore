@@ -1,2 +1,6 @@
 
 *.mp4
+.DS_Store
+yolov5/runs/detect/
+yolov5/data/Original Dataset/
+.idea
