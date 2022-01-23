@@ -14,3 +14,4 @@ pip install -r requirements.txt
 # choose weights as weights/best.pt for 2 labels
 # source 0 is webcam feed. Can change to other numbers for different feeds, as documented in detect.py
 python detect.py -- source 0 --weights weights/best_3_labels.pt 
+```
